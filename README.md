@@ -2,15 +2,13 @@
 
 Public legal / support pages for KMR Lune apps (App Store & Play).
 
-## Bahçe
+## Garden Stall / Stand jardin
 
-| Page | URL (after GitHub Pages is on) |
-|------|--------------------------------|
-| Privacy | https://kmrlune.github.io/kmrlune-legal/bahce/privacy.html |
-| Support | https://kmrlune.github.io/kmrlune-legal/bahce/support.html |
+| Page | URL |
+|------|-----|
+| Privacy | https://kmrlune.github.io/kmrlune-legal/garden-stall/privacy.html |
+| Support | https://kmrlune.github.io/kmrlune-legal/garden-stall/support.html |
 
-Source of truth for Bahçe copy also lives in the monoPR app tree: `apps/bahce/store/legal/`. Keep both in sync when text changes.
+Languages on the pages: **English** and **French**.
 
-## GitHub Pages
-
-Settings → Pages → Deploy from branch **`main`** / folder **`/` (root)**.
+Source copy in monoPR: `apps/bahce/store/legal/` (keep in sync).
