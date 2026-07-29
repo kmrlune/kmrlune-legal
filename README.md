@@ -1,14 +1,17 @@
 # kmrlune-legal
 
-Public legal / support pages for KMR Lune apps (App Store & Play).
+Public legal / support pages for KMR Lune apps.
 
-## Garden Stall / Stand jardin
+## Garden Sales / Bahçe
 
-| Page | URL |
-|------|-----|
-| Privacy | https://kmrlune.github.io/kmrlune-legal/garden-stall/privacy.html |
-| Support | https://kmrlune.github.io/kmrlune-legal/garden-stall/support.html |
+Per-language pages (switcher on each page):
 
-Languages on the pages: **English** and **French**.
+| Lang | Privacy | Support |
+|------|---------|---------|
+| English | https://kmrlune.github.io/kmrlune-legal/garden-stall/en/privacy.html | …/en/support.html |
+| Français | …/fr/privacy.html | …/fr/support.html |
+| Türkçe | …/tr/privacy.html | …/tr/support.html |
+| Español | …/es/privacy.html | …/es/support.html |
+| العربية | …/ar/privacy.html | …/ar/support.html |
 
-Source copy in monoPR: `apps/bahce/store/legal/` (keep in sync).
+Source: `apps/bahce/store/legal/{en,fr,tr,es,ar}/` in monoPR.
