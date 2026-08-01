@@ -15,3 +15,17 @@ Per-language pages (switcher on each page):
 | العربية | …/ar/privacy.html | …/ar/support.html |
 
 Source: `apps/bahce/store/legal/{en,fr,tr,es,ar}/` in monoPR.
+
+## DebtTrack / Veral
+
+Per-language pages (switcher on each page):
+
+| Lang | Privacy | Support | Terms |
+|------|---------|---------|-------|
+| English | https://kmrlune.github.io/kmrlune-legal/veral/en/privacy.html | …/en/support.html | …/en/terms.html |
+| Français | …/fr/… | … | … |
+| Türkçe | …/tr/… | … | … |
+| Español | …/es/… | … | … |
+| العربية | …/ar/… | … | … |
+
+Source: `apps/borcalacak/store/legal/{en,fr,tr,es,ar}/` in monoPR.
