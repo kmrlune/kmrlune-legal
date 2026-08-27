@@ -29,3 +29,14 @@ Per-language pages (switcher on each page):
 | العربية | …/ar/… | … | … |
 
 Source: `apps/borcalacak/store/legal/{en,fr,tr,es,ar}/` in monoPR.
+
+## PhotoIdent
+
+Per-language pages (switcher on each page):
+
+| Lang | Privacy | Support | Terms |
+|------|---------|---------|-------|
+| English | https://kmrlune.github.io/kmrlune-legal/photoident/en/privacy.html | …/en/support.html | …/en/terms.html |
+| Français | …/fr/privacy.html | …/fr/support.html | …/fr/terms.html |
+
+Source: `apps/photoident/store/legal/{en,fr}/` in monoPR.
