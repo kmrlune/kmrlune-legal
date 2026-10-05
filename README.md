@@ -16,6 +16,20 @@ Per-language pages (switcher on each page):
 
 Source: `apps/bahce/store/legal/{en,fr,tr,es,ar}/` in monoPR.
 
+## Satigo
+
+Per-language pages (switcher on each page):
+
+| Lang | Privacy | Support | Terms | Data safety |
+|------|---------|---------|-------|-------------|
+| English | https://kmrlune.github.io/kmrlune-legal/satigo/en/privacy.html | …/en/support.html | …/en/terms.html | …/en/data-safety.html |
+| Français | …/fr/… | … | … | … |
+| Türkçe | …/tr/… | … | … | … |
+| Español | …/es/… | … | … | … |
+| العربية | …/ar/… | … | … | … |
+
+Source: `apps/satigo/store/legal/{en,fr,tr,es,ar}/` in monoPR.
+
 ## DebtTrack / Veral
 
 Per-language pages (switcher on each page):
